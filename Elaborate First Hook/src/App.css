@@ -1,0 +1,19 @@
+h1 {
+  font-size: 100px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  
+}
+button {
+  padding: 10px;
+  background-color: lightcoral;
+  border: 4px solid black;
+  display: inline-block;
+  width: 410px;
+  font-size: 30px;
+}
+
