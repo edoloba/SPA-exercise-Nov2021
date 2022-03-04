@@ -1,0 +1,41 @@
+.main {
+  text-transform: uppercase;
+  font-style: italic;
+  padding: 10px;
+  text-align: center;
+  font-size: 70px
+}
+.form {
+  display: flex;
+  justify-content: center;
+}
+.inputStyle1 {
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+  background-color: green;
+  font-weight: bold
+}
+.inputStyle2 {
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+  background-color: tomato;
+  font-weight: bold;
+}
+.button1 {
+  background-color: black;
+  color: green;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px;
+}
+.button2 {
+  background-color: black;
+  color: tomato;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px;
+}
