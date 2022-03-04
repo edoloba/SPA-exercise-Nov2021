@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+}
+h3 {
+    color: blue;
+    background-color: aqua;
+    padding: 10px;
+}
+button {
+    background-color: aqua;
+    border-color: blue;
+    color: blue;
+    float: right;
+    margin-right: 100px;
+    padding: 10px;
+}
+ul {
+    margin-top: 25px;
+}
+ul li {
+    list-style-type: none;
+    color: blue;
+    font-size: 30px;
+    padding: 5px;
+    width: 10%;
+    border-radius: 75%;
+    text-align: center;
+}
+p {
+    background-color: lightgreen;
+    color: blue;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 100px;
+}
