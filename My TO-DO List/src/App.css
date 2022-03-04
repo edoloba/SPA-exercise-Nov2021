@@ -1,0 +1,56 @@
+h1 {
+    font-size: 80px;
+    color: rgb(253, 129, 19);
+    text-align: center; 
+}
+h3 {
+    font-size: 35px;
+    color: sandybrown;
+    text-align: center;
+}
+.input_form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input {
+    margin-top: 25px;
+    width: 40rem;
+    height: 2rem;
+    border: 4px solid sandybrown;
+    font-size: 25px;
+    border-radius: 30px;
+}
+.add_button{
+    margin-top: 10px;
+    height: 2.6rem;
+    width: 5rem;
+    border: 4px solid sandybrown;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: black;
+    color: sandybrown;
+    border-radius: 25px;
+}
+.done_button {
+    height: 2.6rem;
+    width: 5rem;
+    border: 4px solid seagreen;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: black;
+    color: seagreen;
+    margin-left: 40px;
+    margin-bottom: 15px;
+    border-radius: 25px;
+}
+ul {
+    margin-top: 100px;
+    list-style-type: none;
+}
+li {
+    color: blanchedalmond;
+    font-size: 25px;
+    text-align: center;
+    font-style: italic;
+}
